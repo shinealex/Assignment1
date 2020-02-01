@@ -54,7 +54,7 @@ public class AccountService {
                 "Please try with amount less than balance",
                 "Visit the near By Deposit machine to deposit cash");
 
-        /* TODO The hard coded values has to be moved form this class!!! */
+        /* TODO The hard coded values have to be moved form this class!!! */
     }
 
 
@@ -99,7 +99,7 @@ public class AccountService {
                         "Please try with 100 or 101",
                         "mail to shinekuttiadi@gmail.com"));
 
-        /* TODO The hard coded values has to be moved form this class!!! */
+        /* TODO The hard coded values have to be moved form this class!!! */
     }
 
 }
