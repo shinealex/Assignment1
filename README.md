@@ -1,4 +1,4 @@
-# Assignment1
+# Assignment
 Please follow the below step to deploy and test this application.
 
 1. There is jar file in home path named <b>rbs-account-service</b>. Please download this jar and run the following command in the command prompt "java -jar rbs-account-service"
