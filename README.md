@@ -6,6 +6,8 @@ Please follow the below step to deploy and test this application.
 3. Enter the following link on the browser <b>http://localhost:8080/swagger-ui.html#/</b>
 4. Please Test all the functionality. 
 
+Now add ![alt tag](swagger.png)
+
 # Notes :
 
 1. Only Given functionality, custom exception and limited unit testing are completed.
