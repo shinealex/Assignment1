@@ -2,11 +2,11 @@
 Please follow the below step to deploy and test this application.
 
 1. There is jar file in home path named <b>rbs-account-service</b>. Please download this jar and run the following command in the command prompt "java -jar rbs-account-service"
-2. Or Entire source code can be downloaded into local and upload into Eclipse or Intellij as maven project.
+2. Or Entire source code can be downloaded into local machine and upload into Eclipse or Intellij as maven project.
 3. Enter the following link on the browser <b>http://localhost:8080/swagger-ui.html#/</b>
 4. Please Test all the functionality. 
 
-Now add ![alt tag](swagger.png)
+![alt tag](swagger.png)
 
 # Notes :
 
